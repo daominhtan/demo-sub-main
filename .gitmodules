@@ -1,0 +1,3 @@
+[submodule "sub/liba"]
+	path = sub/liba
+	url = git@github.com:daominhtan/demo-sub-lib-a.git
